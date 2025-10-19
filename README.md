@@ -1,0 +1,1 @@
+# Mapeamento_Memoria_Cache
