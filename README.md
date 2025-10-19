@@ -2,7 +2,7 @@
 Nesse código, testamos cada um dos três algoritcmos de substituição(FIFO, LRU e MRU)
 
 #Membros do grupo
- Membros do grupo
+ #Membros do grupo
 Beatriz Cunha,
 Pedro Muller,
 Isabelly Araújo
